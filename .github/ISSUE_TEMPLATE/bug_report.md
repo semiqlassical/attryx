@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Type**
+Choose one --> (1) UI (2) User Account (3) AI agent (4) ATX Runtime (5) VIZ (6) Table and Data IO (7) Other
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
