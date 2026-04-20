@@ -1,6 +1,6 @@
 # Attryx — Feedback & Bug Reports
 
-> **[attryx.ai](https://attryx.ai)** · Built by [Semiqlassical Inc.](https://attryx.ai), Berkeley, CA
+> **[attryx.ai](https://attryx.ai)** · Built by [Semiqlassical Inc.](https://semiqlassical.tech), Berkeley, CA
 
 Welcome, and thank you for taking the time to reach out. This repository is where users report bugs, suggest features, and share product feedback directly with the Attryx team. Every submission is read and considered — your input shapes what we build next.
 
@@ -9,10 +9,10 @@ Welcome, and thank you for taking the time to reach out. This repository is wher
 ## Quick Start
 
 **Found a bug?**
-[Open a Bug Report →](../../issues/new)
+[Open a Bug Report →](../../issues/new?template=bug_report.md)
 
 **Have an idea or feature request?**
-[Open a Feature Request →](../../issues/new)
+[Open a Feature Request →](../../issues/new?template=feature_request.md)
 
 That's it. No account setup required beyond a GitHub login.
 
@@ -44,7 +44,7 @@ For anything involving your account, billing, or a matter you'd prefer to keep p
 
 **[support@attryx.ai](mailto:support@attryx.ai)**
 
-We aim to respond to all support emails within one business day.
+We aim to respond to all support emails within a few business days.
 
 ---
 
@@ -59,6 +59,6 @@ We aim to respond to all support emails within one business day.
 
 ## About Attryx
 
-Attryx is the first product from [Semiqlassical Inc.](https://attryx.ai), headquartered in Berkeley, CA, USA. We're building tools to help people work more effectively, and we're just getting started.
+Attryx is the first product from [Semiqlassical Inc.](https://semiqlassical.tech), headquartered in Berkeley, CA, USA. We're building tools to help people work more effectively, and we're just getting started.
 
 Learn more at **[attryx.ai](https://attryx.ai)**.
