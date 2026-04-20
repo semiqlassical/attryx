@@ -14,8 +14,6 @@ Welcome, and thank you for taking the time to reach out. This repository is wher
 **Have an idea or feature request?**
 [Open a Feature Request →](../../issues/new?template=feature_request.md)
 
-That's it. No account setup required beyond a GitHub login.
-
 ---
 
 ## What to Include
@@ -50,7 +48,7 @@ We aim to respond to all support emails within a few business days.
 
 ## Tips for Faster Review
 
-- Use a clear, specific title — it helps us triage quickly.
+- Use a clear, specific title — it helps us review and prioritize faster.
 - One issue per report keeps things focused and easy to track.
 - Check existing issues first to avoid duplicates.
 - If you're unsure whether something is a bug or expected behavior, open an issue anyway — we'd rather hear about it.
@@ -59,6 +57,6 @@ We aim to respond to all support emails within a few business days.
 
 ## About Attryx
 
-Attryx is the first product from [Semiqlassical Inc.](https://semiqlassical.tech), headquartered in Berkeley, CA, USA. We're building tools to help people work more effectively, and we're just getting started.
+Attryx helps engineers and researchers turn complex compute pipelines into auditable, trustworthy workflows. Built by [Semiqlassical Inc.](https://semiqlassical.tech), headquartered in Berkeley, CA, USA.
 
 Learn more at **[attryx.ai](https://attryx.ai)**.
